@@ -26,7 +26,7 @@ function App() {
         </div>
         <div className="intro">
           <h1>Hola, alexander jerez</h1>
-          <p>Este dashboard funciona a base de café, memes y magia de Git — 99% caos, 1% estabilidad.</p>
+          <p>Este dashboard funciona a base de café, memes y magia de Git — 99% caos, 1% estabilidad. Weno sipo, mi sangre.</p>
         </div>
         <button
           type="button"
