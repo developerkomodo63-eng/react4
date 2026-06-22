@@ -26,14 +26,14 @@ function App() {
         </div>
         <div className="intro">
           <h1>Hola, alexander jerez</h1>
-          <p>Interfaz mejorada — personaliza tu dashboard desde aquí.</p>
+          <p>Este dashboard funciona a base de café, memes y magia de Git — 99% caos, 1% estabilidad.</p>
         </div>
         <button
           type="button"
           className="counter"
           onClick={() => setCount((count) => count + 1)}
         >
-          Count is {count}
+          Contador épico: {count}
         </button>
       </section>
 
